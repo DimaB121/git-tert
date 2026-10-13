@@ -1,0 +1,3 @@
+- [] Изучить git add
+- [] Изучить git commit
+- [] Изучить git push
