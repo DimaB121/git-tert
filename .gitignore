@@ -1,0 +1,14 @@
+# Секреты
+.env
+secrets.env
+
+# Логи
+*.log
+
+# Файлы ОС
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
