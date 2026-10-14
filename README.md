@@ -21,3 +21,9 @@
 - **Git** — контроль версий
 - **Markdown** — разметка документации
 - **VS Code** — редактор кода
+
+## Полезные ссылки
+
+- [Документация Git](https://git-scm.com/doc)
+- [Markdown за 10 минут](https://commonmark.org/help/)
+- [Интерактивный тренажёр Git](https://learngitbranching.js.org)
